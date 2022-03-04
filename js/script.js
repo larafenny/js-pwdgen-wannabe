@@ -6,3 +6,6 @@ let surname = prompt("What's your surname?");
 
 // Richiesta colore preferito all'utente
 let color = prompt("What's your favourite color?");
+
+// Genero numero a caso
+let randomNumber = Math.floor(Math.random() * 100);
